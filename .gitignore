@@ -1,13 +1,1 @@
-# Exclude datasets
-data/
-*.csv
-*.json
-*.zip
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Virtual environments
-venv/
-.venv/
+# No project files are excluded.

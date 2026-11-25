@@ -19,7 +19,7 @@ An AI-based debit card fraud detection project using Machine Learning.
 Logistic Regression with preprocessing using StandardScaler and OneHotEncoder.
 
 ## Dataset
-Source data files are not included in this public copy. The pre-trained model files are included.
+The CSV files in `data/refined/` are included and stored with Git LFS. Install Git LFS to download the dataset when cloning this repository.
 
 ## Disclaimer
 This is an educational project using a synthetic dataset.
